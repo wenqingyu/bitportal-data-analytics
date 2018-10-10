@@ -1,0 +1,29 @@
+{
+  "src": "mongodb://localhost:30000/momy",
+  "dist": "mysql://root@localhost:3306/momy",
+  "collections": {
+    "colBasicTypes": {
+      "_id": "string",
+      "field1": "boolean",
+      "field2": "number",
+      "field3": "string"
+    },
+    "colNumberTypes": {
+      "_id": "string",
+      "field1": "BIGINT",
+      "field2": "DOUBLE",
+      "field3": "TINYINT"
+    },
+    "colDateTypes": {
+      "_id": "string",
+      "field1": "DATE",
+      "field2": "DATETIME",
+      "field3": "TIME"
+    },
+    "colStringTypes": {
+      "_id": "string",
+      "field1": "VARCHAR",
+      "field2": "TEXT"
+    }
+  }
+}

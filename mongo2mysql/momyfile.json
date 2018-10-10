@@ -1,0 +1,63 @@
+{
+  "src": "",
+  "dist": "",
+  "prefix": "bitportal_",
+  "case": "camel",
+  "collections": {
+    "vouchers": {
+      "_id": "string",
+      "code": "string",
+      "topic": "string",
+      "status": "string",
+      "data.source": "string",
+      "data.bpId": "string",
+      "data.chainType": "string",
+      "data.walletId": "string",
+      "data.pubKey": "string",
+      "updatedAt": "string"
+    },
+    "wallets": {
+      "_id": "string",
+      "createdAt": "string",
+      "bpId": "string",
+      "updatedAt": "string",
+      "source": "string",
+      "note": "string",
+      "chainType": "string",
+      "walletId": "string",
+      "ownerKey": "string",
+      "activeKey": "string",
+      "txhash": "string"
+    },
+    "votes": {
+      "_id": "string",
+      "bpList": "string",
+      "createdAt": "string",
+      "updatedAt": "string",
+      "userId": "string",
+      "amount": "number",
+      "walletId": "string"
+    },
+    "transactions": {
+      "_id": "string",
+      "userId": "string",
+      "walletId": "string",
+      "assetType": "string",
+      "toAddr": "string",
+      "amount": "number",
+      "createdAt": "string",
+      "updatedAt": "string"
+    },
+    "stakes": {
+      "_id": "string",
+      "userId": "string",
+      "walletId": "string",
+      "assetType": "string",
+      "type": "string",
+      "amount": "number",
+      "createdAt": "string",
+      "updatedAt": "string"
+    }
+  }
+}
+
