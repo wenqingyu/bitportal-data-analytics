@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+
+# Mongo2Mysql
+./mongo2mysql/mode_modules
+./mongo2mysql/package-lock.json
+./mongo2mysql/momyfile.json
