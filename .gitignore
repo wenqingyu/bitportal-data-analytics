@@ -62,6 +62,6 @@ typings/
 
 
 # Mongo2Mysql
-./mongo2mysql/mode_modules
-./mongo2mysql/package-lock.json
-./mongo2mysql/momyfile.prod.json
+mongo2mysql/mode_modules
+mongo2mysql/package-lock.json
+mongo2mysql/momyfile.prod.json
