@@ -65,3 +65,7 @@ typings/
 mongo2mysql/mode_modules
 mongo2mysql/package-lock.json
 mongo2mysql/momyfile.prod.json
+
+# scripts
+scripts/config/production.json
+scripts/package-lock.json

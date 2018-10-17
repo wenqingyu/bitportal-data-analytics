@@ -1,0 +1,9 @@
+{
+    "DBConfig": {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": "",
+        "multipleStatements": true
+    }
+}
