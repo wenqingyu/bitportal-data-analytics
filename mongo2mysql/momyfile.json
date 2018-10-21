@@ -27,7 +27,8 @@
       "walletId": "string",
       "ownerKey": "string",
       "activeKey": "string",
-      "txhash": "string"
+      "txhash": "string",
+      "balance": "string"
     },
     "votes": {
       "_id": "string",
