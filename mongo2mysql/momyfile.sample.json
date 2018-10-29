@@ -9,11 +9,7 @@
       "code": "string",
       "topic": "string",
       "status": "string",
-      "data.source": "string",
-      "data.bpId": "string",
-      "data.chainType": "string",
-      "data.walletId": "string",
-      "data.pubKey": "string",
+      "data": "string",
       "updatedAt": "string"
     },
     "wallets": {
