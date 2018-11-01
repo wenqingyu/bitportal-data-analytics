@@ -31,7 +31,6 @@
       "bpList": "string",
       "createdAt": "string",
       "updatedAt": "string",
-      "userId": "string",
       "amount": "number",
       "walletId": "string"
     },
